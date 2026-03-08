@@ -1,0 +1,6 @@
+TSC Category,Mandatory?,Core Focus,Typical When Included,Key Additional Criteria Refs
+Security,Yes,"Protection against unauthorized access, use, disclosure, etc.",Always (base of every SOC 2),CC1–CC9
+Availability,No,"System uptime, capacity, backup & recovery",Cloud/SaaS with SLAs,A1.1–A1.3
+Processing Integrity,No,"Accurate, complete, timely processing","Financial processing, data services",PI1.1–PI1.5
+Confidentiality,No,Protection of confidential information,Contracts with confidentiality clauses,C1.1–C1.2
+Privacy,No,"Handling of personal information (notice, consent, etc.)","Handles PII/PHI (GDPR, HIPAA overlap)",P1.0–P8.1
